@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several reasons why some officers of the army with many other good people, did heretofore admit of and subject to Oliver Cromwel as the supreme magistrate of the common-wealth of England, Scotland, and Ireland, and the dominions and territories thereunto belonging : as also, why they did admit of and subject to Richard, the eldest son of the said Oliver, as successor to his father in the government of the aforesaid common-wealth, &amp;c. : likewise, why they have rejected the said government, and earnestly desire the Long Parliament to sit to exercise and discharge their trust in governing the said common-wealth without a single person, king-ship, or House of Lords.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59392</idno><idno type="EEBO-CITATION">12744358</idno>
+  <idno type="VID">93193</idno>
+  <idno type="EEBO-PROQUEST">2264198609</idno>
+  
+            <idno type="STC">Wing S2809</idno>
+            <idno type="STC">ESTC R32659</idno>
+            <idno type="OCLC">12744358</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93193)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1536:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several reasons why some officers of the army with many other good people, did heretofore admit of and subject to Oliver Cromwel as the supreme magistrate of the common-wealth of England, Scotland, and Ireland, and the dominions and territories thereunto belonging : as also, why they did admit of and subject to Richard, the eldest son of the said Oliver, as successor to his father in the government of the aforesaid common-wealth, &amp;c. : likewise, why they have rejected the said government, and earnestly desire the Long Parliament to sit to exercise and discharge their trust in governing the said common-wealth without a single person, king-ship, or House of Lords.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658.</term>
+               <term type="personal_name">Cromwell, Richard, 1626-1712.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1660.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93193:1"/>
+            <pb facs="tcp:93193:1"/>
+            <p>SEVERAL REASONS WHY SOME <hi>OFFICERS</hi> of the <hi>ARMY,</hi> WITH Many other good People, did here<g ref="char:EOLhyphen"/>tofore admit of, and subject to <hi>OLIVER CROM<g ref="char:EOLhyphen"/>WEL,</hi> as the Supreme Magistrate of the Com<g ref="char:EOLhyphen"/>mon-Wealth of <hi>England, Scotlan<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and the Dominions and Territo<g ref="char:EOLhyphen"/>ries thereunto belonging.</p>
+            <p>
+               <hi>AS ALSO,</hi> Why they did admit of, and subject to <hi>RICHARD,</hi> the Eldest Son to the said <hi>OLIVER,</hi> as Suc<g ref="char:EOLhyphen"/>cessor to his Father in the Government of the aforesaid Common-wealth, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>LIKEWISE,</hi> Why they have rej<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted the said Government, and earnestlie desired the Long Parliament to sit to exer<g ref="char:EOLhyphen"/>cise and discharge their Trust in governing the said Common-wealth without a single Person, King-ship, or House of LORDS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and are to be sold at the <hi>Black<g ref="char:EOLhyphen"/>spread-Eagle</hi> neer the West end of <hi>Pauls,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb n="2" facs="tcp:93193:2"/>
+               <head>
+                  <hi>Several Reasons why some of the Officers of the Army, with many other good people, did heretofore admit of, and subject to</hi> OLIVER CROMWEL <hi>as the Supreme Magistrate of the Common-wealth of</hi> England, Scot<g ref="char:EOLhyphen"/>land, <hi>and</hi> Ireland, <hi>with the Dominions and Territories thereunto belonging.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Reasons for admitting of, and subject<g ref="char:EOLhyphen"/>ing to the said <hi>Oliver</hi> as supreme Magi<g ref="char:EOLhyphen"/>strate, were these, <hi>viz.</hi>
+               </p>
+               <p>First, The consideration that God had made him most eminently insrrumental in subduing the common Enemy of the publike peace, and of the Civil and Christian Liberties of all the good people in the three Nations, which many of the subdued (who have out-lived the late Wars) do ac<g ref="char:EOLhyphen"/>knowledge.</p>
+               <p>Secondly, His appearing to assert and preserve the just liberties of all that made profession of Christ; (except as to some few particular p<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rsons who denyed the God head of the holy Spirit, and the Petsonalty of the Son of God, and the Resurrection of the Body, <hi>&amp;c.</hi>) although much differing amongst themselves in Church-government, in Doctrine, and Discipline, <hi>&amp;c.</hi>
+                  <pb n="3" facs="tcp:93193:2"/> against all that would infringe the same by introdu<g ref="char:EOLhyphen"/>cing and imposing a form for the whole by a law, with penalties to be inflicted on such as are not satisfied in judgement and conscience to conform thereunto.</p>
+               <p>Thirdly, Because the major part of the little Parlia<g ref="char:EOLhyphen"/>ment, (who made sundry Acts or laws which the peo<g ref="char:EOLhyphen"/>ple of the said Common-wealth did, and doth yeeld obedience unto, and thereby have allowed of their power, considering the exigency and straits the Nati<g ref="char:EOLhyphen"/>ons were then in, although they were constituted in an extraordinary way, without the general consent of the people, who had an undoubted right to elect their representatives) did resign up their power unto him when they could not agree among themselves.</p>
+               <p>Fourthly, Because as the case then was, it did not appear safe to put the people as in old time, to chuse another Parliament so soon after the wars, the subdu<g ref="char:EOLhyphen"/>ed common Enemy, who with their friends were ve<g ref="char:EOLhyphen"/>ry many, if not the most, and many others being much disaffected to the aforesaid Christian liberty of good people, being not then by law debarred from electing or being elected; and therefore if a Parliament should then have been chosen, the peace so mercifully bestow<g ref="char:EOLhyphen"/>ed, and dearly purchased with the loss of many mens lives, would again have been brought into much ha<g ref="char:EOLhyphen"/>zard, for that God might thereby have been justly pro<g ref="char:EOLhyphen"/>voked, if his people should have suffered those to have been exalted, which in love to his people and the Nations he had so justly brought down, and had made the chiefe Heads or Ring-leaders of them exemplary, by publike Justice executed on them.</p>
+               <p>Fifthly; Because by the wonderful victories and suc<g ref="char:EOLhyphen"/>cesses which the Lord gave him in the three Nations,
+<pb n="4" facs="tcp:93193:3"/> he became much loved by the good, and feared by the bad both at home and abroad.</p>
+               <p>Sixthly, Because of the unwillingness which was in the Army to govern meerly by a Mi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itary Power, with<g ref="char:EOLhyphen"/>out a civil form or order, a civil Government being most natural, safe, and desirable to the freeborn peo<g ref="char:EOLhyphen"/>ple of these Nations.</p>
+               <p>Seventhly; Because of the hopes that they had (af<g ref="char:EOLhyphen"/>ter the little Parliament had resigned their Power) that his Highness would not onely during his life, pre<g ref="char:EOLhyphen"/>serve the Laws and Liberties of all good people, ci<g ref="char:EOLhyphen"/>vil and Christian, (agreeing to his solemn Oath or Promise made at his Installment) and continue to be a terror to the implacable Enemies thereof both at home and abroad, but also witness to the world a sincere and fervent desire to have the same for following generati<g ref="char:EOLhyphen"/>ons upheld and secured, by nominating a fit qualified person to succed in the Government, that might have continued faithful to the good old Cause of God and his people.</p>
+            </div>
+            <div type="part">
+               <head>Reasons why they did admit of, and subject to <hi>Ri<g ref="char:EOLhyphen"/>chard,</hi> eldest son to the said <hi>Oliver,</hi> as successor to his Father in the government of the said Commonwealth.</head>
+               <p>First; Because the Councel resolved that it did ap<g ref="char:EOLhyphen"/>pear to them that he was rightful successor to his Fa<g ref="char:EOLhyphen"/>ther, according to the Petition and Advice, and there<g ref="char:EOLhyphen"/>fore ordered him to be proclaimed throughout the three Nations as Protector thereof; and thereupon he was owned, and many addresses made unto him, as be<g ref="char:EOLhyphen"/>ing the chief Magistrate, according to the said Petiti<g ref="char:EOLhyphen"/>on and advice of the said Commonwealth.</p>
+               <p>Thirdly; It was hoped he would constantly adhere
+<pb n="5" facs="tcp:93193:3"/> to the good old cause, and improve his power to main<g ref="char:EOLhyphen"/>tain and preserve the same; and in order thereto, that he would hearken to, and follow the good counsel of his and the Nations best friends for securing the said cause, and that he would reject all overtures made un<g ref="char:EOLhyphen"/>to him by any whatsoever that might have a tendency to bring the same, and those that faithfully contended for it, into danger.</p>
+            </div>
+            <div type="part">
+               <head>Reasons why the late Government under <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> was rejected, and the government by a single person put to a period.</head>
+               <p>First; For the Reasons laid down in the Declaration of the Officers of the Army lately published, wherein the long Parliament was invited to sit, unto which you are referred.</p>
+               <p>Secondly; Because many for good reasons conclude that his title to the government was very doubtful, the circumstances about the election of him being duly considered, are not satisfactory, he being not chosen whilest his Father was in a fit capacity to nominate a successor.</p>
+               <p>Thirdly, For that he appeared to decline from fol<g ref="char:EOLhyphen"/>lowing the good counsel of those who were, and are eminent assertors of the civil and Christian Liberties of good people; and for that he did hearken to, and follow such (as it is to be feared) as more affected and delighted of late with worldly honors and carnal inte<g ref="char:EOLhyphen"/>rests, then with the Weale and Liberties of good peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p>Fourthly; Because he to uphold his will against the counsel of the aforesaid good men, endeavoured to en<g ref="char:EOLhyphen"/>gage the Army in and about the Cities of <hi>London</hi> and <hi>Westminster,</hi> to the ruine of such as had continued faith<g ref="char:EOLhyphen"/>ful
+<pb n="6" facs="tcp:93193:4"/> to the aforesaid good cause and interest, and there, by endangered to put all into blood and confusion.</p>
+            </div>
+            <div type="part">
+               <head>Reasons why the said Officers did invite the Long Par<g ref="char:EOLhyphen"/>liament to return to the exercise and discharge of their Trusts.</head>
+               <p>First; For the Reasons given in the aforesaid Decla<g ref="char:EOLhyphen"/>tion, to which we refer you.</p>
+               <p>Secondly; Because according to the old constitution formerly altered, they are the ancient lawful Autho<g ref="char:EOLhyphen"/>rity of this Nation, being at first summoned or called together by vertue of the late King's Writ, and were thereupon chosen by the people, and after by the same Authority were established, and were not according to the Law then in being, to be dissolved without their own consent, which yet was attempted and done by the Will, Interest, and Potency of the late Lord Pro<g ref="char:EOLhyphen"/>tector, whilest their General.</p>
+               <p>Thirdly; Because to establish and continue the Go<g ref="char:EOLhyphen"/>vernment of these Nations in a single person, may prove a very evil consequence in the future, besides the manifold inconveniences that began to appear not on<g ref="char:EOLhyphen"/>ly of late, but formerly; as to instance some few instead of many that might be mentioned: 1. Very much of the publike treasure was spent, and great Debts con<g ref="char:EOLhyphen"/>tracted to maintain the Court in its pomp, and such as were Officers and Attendants upon it. 2. It appeared to be such a foundation that many were induced there<g ref="char:EOLhyphen"/>by to endeavour the building or bringing in Kingship upon it, a Government which had been justly destroy<g ref="char:EOLhyphen"/>ed, and was most contrary to the spirits of good men. 3. Many Officers of the Army, some of which are very considerable, notwithstanding many good servi<g ref="char:EOLhyphen"/>ces
+<pb n="7" facs="tcp:93193:4"/> performed by them for the Commonwealth, were for their being dis-satisfied at the Court-designs, dis<g ref="char:EOLhyphen"/>mist, or put out of their places, without being brought to a legal tryal at a Court-Mar<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al, contrary to the due priviledge and laudable custom of the Army, which was a great grief to the spirits of many who still continued in their commands, as being unwilling that such as were adversaries to the liberties of good people, should (to promote a carnal and selfish inte<g ref="char:EOLhyphen"/>rest) get into their places to endeavour the weale and safety of the whole. 4. Countenance and encourage<g ref="char:EOLhyphen"/>ment was abundantly given to such as were of loose principles and lives, and of rigid spirits against good people, and had been but little serviceable in the time of war to the publike; and that by advancing them in<g ref="char:EOLhyphen"/>to places of trust and profit, in the rooms of such as were put off, as aforesaid, and this upon a meer poli<g ref="char:EOLhyphen"/>tike account, to uphold the government in a single per<g ref="char:EOLhyphen"/>son, and to set up the Family.</p>
+               <p>Fifthly; Because the civil and Christian Liberties of good people might quickly have been brought to dan<g ref="char:EOLhyphen"/>ger through the interest and endeavours of many to settle and impose a form of Church-government, Do<g ref="char:EOLhyphen"/>ctrine, and Discipline, <hi>&amp;c.</hi> who would have readily engaged to stand and contend for the government in a single person upon that very account, if they could but have had their desires therein granted unto them.</p>
+               <p>Sixthly; The continuance of the government in a single person would have given <hi>Charles St<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>art</hi> and his party the greater hopes to see a time wherein they might accomplish their own ends by pretending a right to the government before any single person what<g ref="char:EOLhyphen"/>soever.</p>
+               <pb n="8" facs="tcp:93193:5"/>
+               <p>Seventhly; Because the said long Parliament made so good a beginning to settle the government of these Nations before their interruption in <hi>April,</hi> 1653. its hoped that they will most faithfully, chear<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ully, and couragiously, now they are by Gods wonderful and gracious providence restored to their former freedom for acting in a Parliamentary way to perform the rest of that great good work which yet remains to be done by them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93193:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
